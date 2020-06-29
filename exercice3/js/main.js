@@ -1,0 +1,1 @@
+document.querySelector('.heading1El').style = 'color: red';

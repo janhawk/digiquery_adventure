@@ -1,0 +1,1 @@
+document.querySelector('.heading2El').style = 'background-color: green';
